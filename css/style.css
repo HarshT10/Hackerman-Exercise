@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: rgba(0, 0, 0, 0.4) url("/images/hackerman.gif");
+    background-position: center;
+    background-blend-mode: darken;
+    font-family: 'Martian Mono', monospace;
+    height: 100vh;
+}
+
+h1 {
+    color: rgb(55, 180, 55);
+    text-align: center;
+    font-size: 4.5rem;
+    padding: 25px 0;
+    filter: drop-shadow(5px 4px 6px rgb(55, 180, 55));
+}
+
+.textBox-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.textBox {
+    width: 55rem;
+    height: 45rem;
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 20px 25px;
+    font-size: 1.4rem;
+    line-height: 35px;
+    color: rgb(55, 180, 55);
+    border: 3px solid rgb(55, 180, 55);
+    border-radius: 20px;
+    box-shadow: 0 0 22px 3px rgb(55, 180, 55);
+}
