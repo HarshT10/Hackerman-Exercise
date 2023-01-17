@@ -2,6 +2,10 @@
 
 - Just for practice of JavaScript.
 
+[Netlify](https://hackermanexercise-harshcodes.netlify.app/)
+
+![Badge](https://img.shields.io/badge/Netlify-Link-green)
+
 ---
 
 ## What did I learn from this Project?
